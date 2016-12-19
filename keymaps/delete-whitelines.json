@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-d": "delete-whitelines:toggle"
+    "ctrl-shift-d": "delete-whitelines:toggle"
   }
 }
