@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle delete-whitelines",
+        "command": "delete-whitelines:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "delete-whitelines",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "delete-whitelines:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
