@@ -4,6 +4,6 @@ Delete Whitelines is an Atom package for removing empty lines.
 
 ![A screenshot of your package](https://raw.githubusercontent.com/dhwlm/delete-whitelines/master/screenshot.gif)
 
-Just Select the text, use command palette(cmd + shift + P) > delete-whitelines:toggle or ctrl+shift+D to remove empty lines within the selected text area.
+Just Select the text, use command palette `(cmd + shift + P)` > delete-whitelines:toggle or `ctrl+shift+D` (for MAC) to remove empty lines within the selected text area.
 
 -Dhawal M
