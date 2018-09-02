@@ -1,7 +1,7 @@
 {
   "name": "Delete-Whitelines",
   "main": "./lib/delete-whitelines",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "description": "Delete Whitelines is an Atom package for removing empty lines.",
   "keywords": [],
   "activationCommands": {
